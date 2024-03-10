@@ -1,0 +1,20 @@
+安裝jdk並設定JAVA_HOME環境變數
+
+建立docker共用網路
+podman network create mynet
+--podman network ls 查看目前網路
+--podman network rm mynet 刪除建立的網路
+
+執行sonarqubr
+podman run -d --name sonarqube -p 9000:9000 -p 9092:9092 --network mynet sonarqube:lts
+
+執行sonar scan cli
+podman run -e SONAR_TOKEN="<SONAR_TOKEN>" -e SONAR_SCANNER_OPTS="-Dsonar.projectKey=<project-key>" -e SONAR_HOST_URL="http://sonarqube:9000" --network mynet sonarsource/sonar-scanner-cli
+
+dotnet安裝工具
+dotnet tool install --global dotnet-sonarscanner
+
+執行工具
+dotnet sonarscanner begin /k:"<project-key>" /d:sonar.token="<SONAR_TOKEN>"
+dotnet build .\SonarLint.csproj --no-incremental
+dotnet sonarscanner end /d:sonar.token="<SONAR_TOKEN>"

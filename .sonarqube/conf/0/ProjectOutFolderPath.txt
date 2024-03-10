@@ -1,0 +1,1 @@
+C:\Users\nerod\Documents\GitHub\SonarLint\.sonarqube\out\0
