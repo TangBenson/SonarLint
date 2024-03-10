@@ -20,31 +20,10 @@
               "resultFile": {
                 "uri": "file:///C:/Users/nerod/Documents/GitHub/SonarLint/Program_Sqlinjection.cs",
                 "region": {
-                  "startLine": 18,
+                  "startLine": 17,
                   "startColumn": 9,
-                  "endLine": 18,
-                  "endColumn": 117
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2077",
-          "level": "warning",
-          "message": "Make sure using a dynamically formatted SQL query is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/nerod/Documents/GitHub/SonarLint/Programe_BrokenAccessControl.cs",
-                "region": {
-                  "startLine": 16,
-                  "startColumn": 30,
-                  "endLine": 16,
-                  "endColumn": 87
+                  "endLine": 17,
+                  "endColumn": 108
                 }
               }
             }
@@ -108,6 +87,27 @@
                   "startColumn": 13,
                   "endLine": 18,
                   "endColumn": 14
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2077",
+          "level": "warning",
+          "message": "Make sure using a dynamically formatted SQL query is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/nerod/Documents/GitHub/SonarLint/Programe_BrokenAccessControl.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 30,
+                  "endLine": 16,
+                  "endColumn": 87
                 }
               }
             }

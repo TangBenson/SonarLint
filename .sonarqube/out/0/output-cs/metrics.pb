@@ -6,8 +6,8 @@ P
 IC:\Users\nerod\Documents\GitHub\SonarLint\Programe_BrokenAccessControl.cs 8j
 r	‚o
 JC:\Users\nerod\Documents\GitHub\SonarLint\Program_SensitiveDataExposure.cs 8jr	
-‚q
-AC:\Users\nerod\Documents\GitHub\SonarLint\Program_Sqlinjection.cs 8jr	
-x‚c
+‚r
+AC:\Users\nerod\Documents\GitHub\SonarLint\Program_Sqlinjection.cs 8jr	
+x‚c
 8C:\Users\nerod\Documents\GitHub\SonarLint\Program_XEE.cs 8jr	
 ‚

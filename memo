@@ -17,4 +17,4 @@ dotnet tool install --global dotnet-sonarscanner
 執行工具
 dotnet sonarscanner begin /k:"<project-key>" /d:sonar.token="<SONAR_TOKEN>"
 dotnet build .\SonarLint.csproj --no-incremental
-dotnet sonarscanner end /d:sonar.token="<SONAR_TOKEN>"
+dotnet sonarscanner end /d:sonar.token="<SONAR_TOKEN>" /d:sonar.login="admin" /d:sonar.password="1234"
