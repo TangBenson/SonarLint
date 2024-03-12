@@ -18,3 +18,6 @@ dotnet tool install --global dotnet-sonarscanner
 dotnet sonarscanner begin /k:"<project-key>" /d:sonar.token="<SONAR_TOKEN>"
 dotnet build .\SonarLint.csproj --no-incremental
 dotnet sonarscanner end /d:sonar.token="<SONAR_TOKEN>" /d:sonar.login="admin" /d:sonar.password="1234"
+
+備註：
+第二次測試發現根本不用run sonar scan cli，只要sonarqube run起來後，按照網站上的指示，用dotnet sonarscanner就可以了

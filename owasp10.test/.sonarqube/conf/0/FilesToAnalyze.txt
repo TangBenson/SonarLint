@@ -1,0 +1,12 @@
+﻿C:\Users\nerod\Documents\GitHub\SonarLint\owasp10.test\Controllers\BrokenAcccessControlController.cs
+C:\Users\nerod\Documents\GitHub\SonarLint\owasp10.test\Controllers\CryptographicFailuresController.cs
+C:\Users\nerod\Documents\GitHub\SonarLint\owasp10.test\Controllers\InjectionController.cs
+C:\Users\nerod\Documents\GitHub\SonarLint\owasp10.test\Model\Person.cs
+C:\Users\nerod\Documents\GitHub\SonarLint\owasp10.test\Program.cs
+C:\Users\nerod\Documents\GitHub\SonarLint\owasp10.test\obj\Debug\net6.0\owasp10.test.GlobalUsings.g.cs
+C:\Users\nerod\Documents\GitHub\SonarLint\owasp10.test\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+C:\Users\nerod\Documents\GitHub\SonarLint\owasp10.test\obj\Debug\net6.0\owasp10.test.AssemblyInfo.cs
+C:\Users\nerod\Documents\GitHub\SonarLint\owasp10.test\obj\Debug\net6.0\owasp10.test.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nerod\Documents\GitHub\SonarLint\owasp10.test\appsettings.Development.json
+C:\Users\nerod\Documents\GitHub\SonarLint\owasp10.test\appsettings.json
+C:\Users\nerod\Documents\GitHub\SonarLint\owasp10.test\Properties\launchSettings.json

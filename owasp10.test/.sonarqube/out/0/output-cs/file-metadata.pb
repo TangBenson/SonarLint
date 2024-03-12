@@ -1,0 +1,10 @@
+m
+dC:\Users\nerod\Documents\GitHub\SonarLint\owasp10.test\Controllers\BrokenAcccessControlController.csutf-8n
+eC:\Users\nerod\Documents\GitHub\SonarLint\owasp10.test\Controllers\CryptographicFailuresController.csutf-8b
+YC:\Users\nerod\Documents\GitHub\SonarLint\owasp10.test\Controllers\InjectionController.csutf-8O
+FC:\Users\nerod\Documents\GitHub\SonarLint\owasp10.test\Model\Person.csutf-8J
+AC:\Users\nerod\Documents\GitHub\SonarLint\owasp10.test\Program.csutf-8q
+fC:\Users\nerod\Documents\GitHub\SonarLint\owasp10.test\obj\Debug\net6.0\owasp10.test.GlobalUsings.g.csutf-8Å
+vC:\Users\nerod\Documents\GitHub\SonarLint\owasp10.test\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8o
+dC:\Users\nerod\Documents\GitHub\SonarLint\owasp10.test\obj\Debug\net6.0\owasp10.test.AssemblyInfo.csutf-8Ç
+wC:\Users\nerod\Documents\GitHub\SonarLint\owasp10.test\obj\Debug\net6.0\owasp10.test.MvcApplicationPartsAssemblyInfo.csutf-8

@@ -1,0 +1,1 @@
+C:\Users\nerod\Documents\GitHub\SonarLint\owasp10.test\.sonarqube\out\0
