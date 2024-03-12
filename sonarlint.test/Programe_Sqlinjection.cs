@@ -1,10 +1,6 @@
-using System;
-using System.Collections.Generic;
 using System.Data.SqlClient;
-using System.Linq;
-using System.Threading.Tasks;
 
-namespace SonarLint;
+namespace sonarlint.test;
 public static partial class Program
 {
     public static void SqlInjection(
@@ -22,5 +18,8 @@ public static partial class Program
         {
             Console.WriteLine(reader["MEMIDNO"].ToString());
         }
+
+        // SqlCommand command = new($"DELETE FROM users WHERE UserId = {id}", connection);
+        // _ = command.ExecuteReader();
     }
 }

@@ -1,10 +1,6 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Xml;
 
-namespace SonarLint;
+namespace sonarlint.test;
 public static partial class Program
 {
     public static void XEE()

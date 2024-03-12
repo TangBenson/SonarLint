@@ -1,6 +1,6 @@
-﻿using SonarLint.Model;
+﻿using sonarlint.test.Model;
 
-namespace SonarLint;
+namespace sonarlint.test;
 
 public static partial class Program
 {

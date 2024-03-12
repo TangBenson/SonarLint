@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace SonarLint.Model
+namespace sonarlint.test.Model
 {
     public class Person
     {
